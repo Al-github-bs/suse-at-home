@@ -1,5 +1,9 @@
 # SUSE at Home [forked Jan 18 22]
 
+## Change Log
+* [6/25/23] Add change log
+* [22_0118] Forked
+
 ## Objectives
 
 * Give a hands-on experience with some of our newer technologies including Kubernetes and Rancher
